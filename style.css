@@ -1,0 +1,34 @@
+img {
+    padding-left: 550px; padding-right: 30px; padding-top: 50px; padding-bottom: 30px;
+    width: 200px;
+}
+body {
+    background-color: brown;
+}
+
+a {
+    background-color: black;
+    color: ghostwhite;
+}
+
+h1 {
+    margin-left: 400px;
+    font-size: 380%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h3 {
+    border-color: olive;
+    border-style: groove;
+}
+
+h4 {
+    border-style: groove;
+    border-color: olive;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
